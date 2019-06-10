@@ -1,0 +1,10 @@
+body {
+    background: yellow;
+    color: #000;
+}
+
+.img {
+    background: url(./images/未标题-1.png) no-repeat;
+    width: 200px;
+    height: 200px;
+}
